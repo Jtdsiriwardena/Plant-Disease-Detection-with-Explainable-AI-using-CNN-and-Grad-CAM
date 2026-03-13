@@ -1,0 +1,220 @@
+{
+  "Pepper__bell___Bacterial_spot": {
+    "display_name": "Pepper Bell - Bacterial Spot",
+    "description": "A bacterial disease that causes small, water-soaked spots on pepper leaves which later turn dark brown or black.",
+    "treatment": [
+      "Apply copper-based bactericide",
+      "Remove infected leaves",
+      "Avoid overhead irrigation"
+    ],
+    "prevention": [
+      "Use disease-free seeds",
+      "Rotate crops yearly",
+      "Avoid working with wet plants"
+    ]
+  },
+
+  "Pepper__bell___healthy": {
+    "display_name": "Pepper Bell - Healthy",
+    "description": "The plant shows no signs of disease and is growing normally.",
+    "treatment": [
+      "No treatment required"
+    ],
+    "prevention": [
+      "Maintain proper watering",
+      "Use balanced fertilizer",
+      "Inspect plants regularly"
+    ]
+  },
+
+  "Potato___Early_blight": {
+    "display_name": "Potato - Early Blight",
+    "description": "A fungal disease that causes dark brown spots with concentric rings on older potato leaves.",
+    "treatment": [
+      "Apply fungicides such as chlorothalonil",
+      "Remove infected leaves",
+      "Improve air circulation around plants"
+    ],
+    "prevention": [
+      "Practice crop rotation",
+      "Use disease-resistant varieties",
+      "Avoid overhead irrigation"
+    ]
+  },
+
+  "Potato___Late_blight": {
+    "display_name": "Potato - Late Blight",
+    "description": "A destructive disease caused by Phytophthora infestans that causes dark lesions on leaves and stems.",
+    "treatment": [
+      "Apply recommended fungicides immediately",
+      "Remove infected plants",
+      "Improve field drainage"
+    ],
+    "prevention": [
+      "Use certified seed potatoes",
+      "Avoid excessive moisture",
+      "Ensure good plant spacing"
+    ]
+  },
+
+  "Potato___healthy": {
+    "display_name": "Potato - Healthy",
+    "description": "The potato plant is healthy with no visible signs of disease.",
+    "treatment": [
+      "No treatment required"
+    ],
+    "prevention": [
+      "Maintain soil fertility",
+      "Ensure proper irrigation",
+      "Monitor plants regularly"
+    ]
+  },
+
+  "Tomato_Bacterial_spot": {
+    "display_name": "Tomato - Bacterial Spot",
+    "description": "A bacterial disease causing small dark spots on leaves, stems, and fruits of tomato plants.",
+    "treatment": [
+      "Apply copper-based bactericides",
+      "Remove infected plant parts",
+      "Avoid overhead watering"
+    ],
+    "prevention": [
+      "Use disease-free seeds",
+      "Rotate crops",
+      "Maintain field hygiene"
+    ]
+  },
+
+  "Tomato_Early_blight": {
+    "display_name": "Tomato - Early Blight",
+    "description": "A common fungal disease causing brown spots with concentric rings on tomato leaves.",
+    "treatment": [
+      "Apply fungicides such as mancozeb",
+      "Remove infected leaves",
+      "Improve air circulation"
+    ],
+    "prevention": [
+      "Use resistant varieties",
+      "Avoid wetting foliage",
+      "Rotate crops regularly"
+    ]
+  },
+
+  "Tomato_Late_blight": {
+    "display_name": "Tomato - Late Blight",
+    "description": "A serious fungal-like disease causing dark lesions on leaves and stems that spread quickly.",
+    "treatment": [
+      "Apply fungicides promptly",
+      "Remove infected plants",
+      "Improve field drainage"
+    ],
+    "prevention": [
+      "Plant resistant varieties",
+      "Ensure proper spacing",
+      "Avoid excessive humidity"
+    ]
+  },
+
+  "Tomato_Leaf_Mold": {
+    "display_name": "Tomato - Leaf Mold",
+    "description": "A fungal disease that causes yellow spots on the upper leaf surface and mold on the underside.",
+    "treatment": [
+      "Apply appropriate fungicide",
+      "Remove infected leaves",
+      "Reduce humidity around plants"
+    ],
+    "prevention": [
+      "Ensure proper ventilation",
+      "Avoid overhead watering",
+      "Maintain adequate spacing"
+    ]
+  },
+
+  "Tomato_Septoria_leaf_spot": {
+    "display_name": "Tomato - Septoria Leaf Spot",
+    "description": "A fungal disease causing numerous small circular spots on tomato leaves.",
+    "treatment": [
+      "Apply fungicides such as chlorothalonil",
+      "Remove infected leaves",
+      "Improve plant airflow"
+    ],
+    "prevention": [
+      "Practice crop rotation",
+      "Avoid wet foliage",
+      "Remove plant debris"
+    ]
+  },
+
+  "Tomato_Spider_mites_Two_spotted_spider_mite": {
+    "display_name": "Tomato - Spider Mites",
+    "description": "Tiny pests that feed on plant sap causing yellow speckled leaves and webbing.",
+    "treatment": [
+      "Apply insecticidal soap or neem oil",
+      "Introduce natural predators",
+      "Wash plants with water spray"
+    ],
+    "prevention": [
+      "Maintain plant health",
+      "Inspect leaves regularly",
+      "Keep humidity balanced"
+    ]
+  },
+
+  "Tomato__Target_Spot": {
+    "display_name": "Tomato - Target Spot",
+    "description": "A fungal disease that causes circular brown spots with a target-like pattern.",
+    "treatment": [
+      "Apply fungicides",
+      "Remove infected leaves",
+      "Improve air circulation"
+    ],
+    "prevention": [
+      "Avoid overhead irrigation",
+      "Practice crop rotation",
+      "Maintain proper plant spacing"
+    ]
+  },
+
+  "Tomato__Tomato_YellowLeaf__Curl_Virus": {
+    "display_name": "Tomato Yellow Leaf Curl Virus",
+    "description": "A viral disease that causes yellowing and curling of tomato leaves and stunted growth.",
+    "treatment": [
+      "Remove infected plants",
+      "Control whitefly population",
+      "Use insect-proof nets"
+    ],
+    "prevention": [
+      "Use resistant varieties",
+      "Control whiteflies early",
+      "Maintain field sanitation"
+    ]
+  },
+
+  "Tomato__Tomato_mosaic_virus": {
+    "display_name": "Tomato Mosaic Virus",
+    "description": "A viral disease that causes mosaic-like discoloration on tomato leaves.",
+    "treatment": [
+      "Remove infected plants",
+      "Disinfect gardening tools",
+      "Avoid handling plants when wet"
+    ],
+    "prevention": [
+      "Use resistant varieties",
+      "Maintain clean tools",
+      "Avoid tobacco contamination"
+    ]
+  },
+
+  "Tomato_healthy": {
+    "display_name": "Tomato - Healthy",
+    "description": "The tomato plant appears healthy and shows no signs of disease.",
+    "treatment": [
+      "No treatment required"
+    ],
+    "prevention": [
+      "Maintain proper watering",
+      "Use balanced fertilizers",
+      "Inspect plants regularly"
+    ]
+  }
+}
